@@ -30,7 +30,7 @@ A simple, fast URL shortener built with Next.js and MongoDB.
 
 1. **Clone the repository**
    ```bash
-   git clone <https://github.com/hamzawaqas-01s/blink>
+   git clone https://github.com/hamzawaqas-01s/blink.git
    cd blinks
    ```
 
